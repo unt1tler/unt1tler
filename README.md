@@ -7,9 +7,9 @@ I craft sleek, fast, and sexy web experiences with a strong focus on modern fron
 🔗 **Portfolio:** [unt1tle.dev](https://unt1tle.dev)  
 
 ### 🛠️ Tech Stack  
-💻 **Frontend:** React, Next.js, Tailwind, TypeScript  
-⚙️ **Backend:** Node.js, Express, Firebase  
-🛠 **Tools:** Vite, Webpack, Figma, Git  
+💻 **Frontend:** React, Next.js, Tailwind,Vue.js TypeScript  
+⚙️ **Backend:** Node.js, Express, Firebase, Supabase 
+🛠 **Tools:** Vite, Webpack, Figma, Git, Ms Paint
 
 ### ✨ What I Love  
 ⚡ High-performance, visually stunning web apps  
