@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Web Developer** | 🔥 Frontend Enthusiast | 🎨 UI/UX Lover  
 
-I craft sleek, fast, and sexy web experiences with a strong focus on modern frontend tech. Whether it's building pixel-perfect UIs or optimizing performance, I'm all about making the web look and feel amazing.  
+I craft sleek and fast web experiences with a strong focus on modern frontend tech. Whether it's building pixel-perfect UIs or optimizing performance, I'm all about making the web look and feel amazing.  
 
 🔗 **Portfolio:** [unt1tle.dev](https://unt1tle.dev)  
 
